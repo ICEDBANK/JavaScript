@@ -1,0 +1,22 @@
+[
+    {
+        "fname":"Joshua",
+        "lname": "Rice",
+        "age" : 36
+    },
+    {
+        "fname":"Sarah",
+        "lname": "Rice",
+        "age" : 35
+    },
+    {
+        "fname":"Ava",
+        "lname": "Rice",
+        "age" : 6
+    },
+    {
+        "fname":"Adeline",
+        "lname": "Rice",
+        "age" : 2
+    }
+]
